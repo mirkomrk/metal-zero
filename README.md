@@ -1,4 +1,10 @@
-# metal-zero
+# Metal-Zero 3dmonkey
+
+
+Aluminum hotend support for voron 0 in the test phase with predisposition for mosquito and dragon,
+
+possibility to combine a sherpa micro left version or use it in bowden
+
 
 # License 
 ### [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
