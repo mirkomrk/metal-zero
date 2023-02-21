@@ -6,7 +6,7 @@ Aluminum hotend support for voron 0 in the test phase with predisposition for mo
 possibility to combine a sherpa micro left version or use it in bowden
 
 
-![](render carrige prospettive.jpg)
+![](IMG/render%20complet.jpg)
 
 
 
