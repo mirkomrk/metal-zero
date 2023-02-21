@@ -9,6 +9,12 @@ possibility to combine a sherpa micro left version or use it in bowden
 ![](IMG/render%20complet.jpg)
 
 
+super slim 
+
+![](IMG/peso.jpg)
+
+
+
 
 # License 
 ### [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
